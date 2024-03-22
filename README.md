@@ -14,5 +14,5 @@ note: When no build-configuration is given all the projects configuration are bu
 - uses: gfriedholm/action-build-stm32@v11.0
   with:
     project-path: STM
-    project-target: 'ERI_app/Debug' 
+    project-target: 'stm_app/Debug' 
 
